@@ -97,7 +97,7 @@ export default [{
         children: [{
             path: "list",
             component: _import("hmmm/pages/articles"),
-            name: "companys-list",
+            name: "articles-list",
             meta: { title: "面试技巧", noCache: true, icon: "component" }
         }]
     }
